@@ -1,7 +1,7 @@
 # BackEnd Task
 
 ## Təsvir
-Bu tapşırıqda sizdən iki endpoint yaratmaq tələb olunur. Lazım olan məlumatlar **data.json** faylında yerləşdirilib. Tapşırığın əsas məqsədi məhsulların məlumatlarını sorğulayıb, onlara mümkün endirimlər tətbiq edərək nəticələri qaytarmaqdır.
+Bu tapşırıqda sizdən iki endpoint yaratmaq tələb olunur. Lazım olan məlumatlar **data.json** faylında yerləşdirilib. Tapşırığın əsas məqsədi məhsulların məlumatlarını sorğulayıb, onlara mümkün endirimlər tətbiq edərək nəticələri qaytarmaqdır. Tapşırıq `node.js` istifadə edilərək yazılmalıdır.
 
 ## Endpoints:
 
